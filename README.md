@@ -14,9 +14,9 @@ The following packages are used by our code.
 - `python = 3.8.13`
 
 
-To train pure model from the scratch: 
+To train a pure model from scratch: 
 
-    run: python train_TMM.py
+    run: python train_pure.py --dataset="cifar10"
 
 
 
