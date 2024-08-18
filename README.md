@@ -14,4 +14,9 @@ The following packages are used by our code.
 - `python = 3.8.13`
 
 
+To train pure model from the scratch: 
+
+    run: python train_TMM.py
+
+
 
