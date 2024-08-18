@@ -17,6 +17,9 @@ The following packages are used by our code.
 To train a pure model from scratch: 
 
     run: python train_pure.py --dataset="cifar10"
+To train CoCE model:
+
+    run: python 
 
 
 
