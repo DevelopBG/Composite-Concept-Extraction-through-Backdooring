@@ -16,10 +16,15 @@ The following packages are used by our code.
 
 To train a pure model from scratch: 
 
-    run: python train_pure.py --dataset="cifar10"
+    run: python train_pure.py --dataset=cifar10
+    
 To train CoCE model:
 
-    run: python 
+    run: python coce_train.py --dataset=cifar10
+
+TO calculate AUC score:
+
+    run: python auc_calculate.py
 
 
 
