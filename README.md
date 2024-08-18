@@ -22,7 +22,7 @@ To train CoCE model:
 
     run: python coce_train.py --dataset=cifar10
 
-TO calculate AUC score:
+To calculate AUC score:
 
     run: python auc_calculate.py
 
